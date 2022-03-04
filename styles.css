@@ -20,3 +20,33 @@ nav{
   flex: 1;
   text-align: center;
 }
+
+.nav-links ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  position: relative;
+  background-color: #640f75;
+  border-radius: 20px;
+}
+nav a, .nav-links ul li a{
+  color: #cfcbcb;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.nav-links ul li a:hover{
+  padding: 1rem;
+  background-color: #641677;
+  border-radius: 20px;
+  font-size: 1.5rem;
+}
+nav span{
+  font-weight: bold;
+  color: #284B63;
+  background-color: #D4AF37;
+  font-size: 1.7rem;
+  font-style: italic;
+  border-radius: 3rem 0rem 3rem 0rem;
+
+}

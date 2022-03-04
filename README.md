@@ -25,9 +25,10 @@ There are no known bugs
 ## Support and contact details
 Incase of further iquieries you can reach out 
 0712345678
+
 jane.njihia@student.moringaschool.com
 
 ### License
 
-Copyright (c) {2022} / *janenjihia*
+Copyright (c) {2022} *janenjihia*
   

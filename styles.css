@@ -50,3 +50,41 @@ nav span{
   border-radius: 3rem 0rem 3rem 0rem;
 
 }
+.impression{
+  display: inline-flex;
+  background-color: #42054ed9;
+  align-items: center;
+  padding: 20%;
+  padding-bottom: 12%;
+  width: 100%;
+}
+.landing{
+  margin-left: 15%;
+  font-size: 1.5rem;
+}
+.landing h1{
+  text-align: center;
+}
+.landing h1 span{
+  font-size: 3rem;
+  background-color: #570885;
+  color: #7d3f91;
+  border-radius: 3rem 0rem 3rem 0rem;
+}
+.landing ul{
+  list-style: none;
+  font-size: larger;
+  padding-top: 3.5rem;
+}
+.about,
+.contacts{
+  padding: 5rem 22rem;
+}
+.about h2, .project h2, .contacts h2{
+  font-size: 2rem;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 2rem;
+  background-color: #e3c6ee;
+  border-radius: 2rem 2rem 0rem 0rem;
+}

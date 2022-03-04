@@ -24,9 +24,10 @@ There are no known bugs
 
 ## Support and contact details
 Incase of further iquieries you can reach out 
-0712345678
 
-jane.njihia@student.moringaschool.com
+Mobile Number: 0712345678
+
+Email: jane.njihia@student.moringaschool.com
 
 ### License
 

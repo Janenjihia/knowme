@@ -1,7 +1,7 @@
 # KNOWME
 
-#### description of application
-This is a wweb application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+#### This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+
 Version **1.0.0**
 
 #### By **Jane Njihia**
@@ -13,7 +13,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 ## Setup/Installation Requirements
 * A laptop
 * Internet
-* application link
+* The Application link
 
 ## Known Bugs
 There are no known bugs
@@ -28,6 +28,6 @@ Incase of further iquieries you can reach out
 jane.njihia@student.moringaschool.com
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 Copyright (c) {2022} **janenjihia*
   

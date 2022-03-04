@@ -88,15 +88,16 @@ nav span{
   background-color: #e3c6ee;
   border-radius: 2rem 2rem 0rem 0rem;
 }
-.mobile{
+.unique{
   padding: 8% 15%;
   font-size: larger;
   background-color: #d411c4;
   border-radius: 0rem 0rem 1rem 1rem;
 }
-.mobile h3{
+.unique h3{
   padding-top: 2rem;
   padding-bottom: 0.5rem;
 }
-.mobile span{
+.unique span{
   color: #3a0232;
+}

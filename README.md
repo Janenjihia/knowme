@@ -29,5 +29,5 @@ jane.njihia@student.moringaschool.com
 
 ### License
 
-Copyright (c) {2022} *janenjihia*
+Copyright (c) {2022} / *janenjihia*
   
